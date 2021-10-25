@@ -14,4 +14,4 @@ The page will reload if you make edits.\
 
 ### Netlify: 
 
-https://forkify-rickc.netlify.app (http://localhost:1234)
+https://forkify-rickc.netlify.app
